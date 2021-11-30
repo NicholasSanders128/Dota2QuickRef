@@ -1,11 +1,33 @@
-.jumbotron {
-    margin: 0;
-    padding: 30px;
-    background-image: linear-gradient(to right, $color-secondary, $color-primary, $color-dark);
-    color: white;
-
+body {
+    background-image: url(https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/backgrounds/greyfade.jpg);
 }
 
-.navbar {
-    background-color: $color-mid;
+#logo {
+    width: 50px;
+    min-width: 50px;
+    height: 50px;
+    min-height: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: Optima, sans-serif;
+}
+
+
+
+#attBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    #strBtn {
+        display:inline-block; float:left;
+    }
+    #intBtn {
+        display:inline-block; float:none;
+    }
+    #agiBtn {
+        display:inline-block; float:right;
+    }
 }
