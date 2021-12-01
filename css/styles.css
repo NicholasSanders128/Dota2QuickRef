@@ -15,20 +15,20 @@ h2 {
   font-family: Optima, sans-serif;
 }
 
-#attBtn {
+.btn-toolbar {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-#attBtn #strBtn {
+.btn-toolbar #strBtn {
   display: inline-block;
   float: left;
 }
-#attBtn #intBtn {
+.btn-toolbar #intBtn {
   display: inline-block;
   float: none;
 }
-#attBtn #agiBtn {
+.btn-toolbar #agiBtn {
   display: inline-block;
   float: right;
 }

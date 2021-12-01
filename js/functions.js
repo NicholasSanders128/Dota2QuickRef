@@ -30,3 +30,10 @@ $("#intBtn").click(function(){
     $(".agiHero").hide();
     $(".intHero").show();
 });
+
+$("#allBtn").click(function(){
+    $(".strHero").show();
+    $(".agiHero").show();
+    $(".intHero").show();
+});
+

@@ -15,9 +15,14 @@ h2 {
     font-family: Optima, sans-serif;
 }
 
+// #allBtn {
+//     display: flex;
+//     justify-content: left;
+//     align-items: left;
+//     display:inline-block; float:left;
+// }
 
-
-#attBtn {
+.btn-toolbar {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +46,3 @@ h2 {
 .intHero {
     width: 272px;
 }
-
-div {
-    transition: width 2s, height 4s;
-  }
