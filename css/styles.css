@@ -39,6 +39,12 @@ h2 {
   float: right;
 }
 
+.card-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .strHero {
   width: 272px;
 }

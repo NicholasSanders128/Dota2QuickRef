@@ -37,3 +37,7 @@ $("#allBtn").click(function(){
     $(".intHero").show();
 });
 
+$("#searchBtn").click(function(){
+    fetch('https://api.opendota.com/api/heroes/120/itemPopularity')
+})
+
