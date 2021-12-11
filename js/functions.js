@@ -41,578 +41,576 @@ let heroes = [
     {
         name: "antimage",
         id: 1,
-        localized_name: "Anti-Mage"
+        localized_name: "anti-Mage"
     },
     {
         name: "axe",
         id: 2,
-        localized_name: "Axe"
+        localized_name: "axe"
     },
     {
         name: "bane",
         id: 3,
-        localized_name: "Bane"
+        localized_name: "bane"
     },
     {
         name: "bloodseeker",
         id: 4,
-        localized_name: "Bloodseeker"
+        localized_name: "bloodseeker"
     },
     {
         name: "crystal_maiden",
         id: 5,
-        localized_name: "Crystal Maiden"
+        localized_name: "crystal maiden"
     },
     {
         name: "drow_ranger",
         id: 6,
-        localized_name: "Drow Ranger"
+        localized_name: "drow ranger"
     },
     {
         name: "earthshaker",
         id: 7,
-        localized_name: "Earthshaker"
+        localized_name: "earthshaker"
     },
     {
         name: "juggernaut",
         id: 8,
-        localized_name: "Juggernaut"
+        localized_name: "juggernaut"
     },
     {
         name: "mirana",
         id: 9,
-        localized_name: "Mirana"
+        localized_name: "mirana"
     },
     {
         name: "nevermore",
         id: 11,
-        localized_name: "Shadow Fiend"
+        localized_name: "shadow fiend"
     },
     {
         name: "morphling",
         id: 10,
-        localized_name: "Morphling"
+        localized_name: "morphling"
     },
     {
         name: "phantom_lancer",
         id: 12,
-        localized_name: "Phantom Lancer"
+        localized_name: "phantom lancer"
     },
     {
         name: "puck",
         id: 13,
-        localized_name: "Puck"
+        localized_name: "puck"
     },
     {
         name: "pudge",
         id: 14,
-        localized_name: "Pudge"
+        localized_name: "pudge"
     },
     {
         name: "razor",
         id: 15,
-        localized_name: "Razor"
+        localized_name: "razor"
     },
     {
         name: "sand_king",
         id: 16,
-        localized_name: "Sand King"
+        localized_name: "sand king"
     },
     {
         name: "storm_spirit",
         id: 17,
-        localized_name: "Storm Spirit"
+        localized_name: "storm spirit"
     },
     {
         name: "sven",
         id: 18,
-        localized_name: "Sven"
+        localized_name: "sven"
     },
     {
         name: "tiny",
         id: 19,
-        localized_name: "Tiny"
+        localized_name: "tiny"
     },
     {
         name: "vengefulspirit",
         id: 20,
-        localized_name: "Vengeful Spirit"
+        localized_name: "vengeful spirit"
     },
     {
         name: "windrunner",
         id: 21,
-        localized_name: "Windranger"
+        localized_name: "windranger"
     },
     {
         name: "zuus",
         id: 22,
-        localized_name: "Zeus"
+        localized_name: "zeus"
     },
     {
         name: "kunkka",
         id: 23,
-        localized_name: "Kunkka"
+        localized_name: "kunkka"
     },
     {
         name: "lina",
         id: 25,
-        localized_name: "Lina"
+        localized_name: "lina"
     },
     {
         name: "lich",
         id: 31,
-        localized_name: "Lich"
+        localized_name: "lich"
     },
     {
         name: "lion",
         id: 26,
-        localized_name: "Lion"
+        localized_name: "lion"
     },
     {
         name: "shadow_shaman",
         id: 27,
-        localized_name: "Shadow Shaman"
+        localized_name: "shadow shaman"
     },
     {
         name: "slardar",
         id: 28,
-        localized_name: "Slardar"
+        localized_name: "slardar"
     },
     {
         name: "tidehunter",
         id: 29,
-        localized_name: "Tidehunter"
+        localized_name: "tidehunter"
     },
     {
         name: "witch_doctor",
         id: 30,
-        localized_name: "Witch Doctor"
+        localized_name: "witch doctor"
     },
     {
         name: "riki",
         id: 32,
-        localized_name: "Riki"
+        localized_name: "riki"
     },
     {
         name: "enigma",
         id: 33,
-        localized_name: "Enigma"
+        localized_name: "enigma"
     },
     {
         name: "tinker",
         id: 34,
-        localized_name: "Tinker"
+        localized_name: "tinker"
     },
     {
         name: "sniper",
         id: 35,
-        localized_name: "Sniper"
+        localized_name: "sniper"
     },
     {
         name: "necrolyte",
         id: 36,
-        localized_name: "Necrophos"
+        localized_name: "necrophos"
     },
     {
         name: "warlock",
         id: 37,
-        localized_name: "Warlock"
+        localized_name: "warlock"
     },
     {
         name: "beastmaster",
         id: 38,
-        localized_name: "Beastmaster"
+        localized_name: "beastmaster"
     },
     {
         name: "queenofpain",
         id: 39,
-        localized_name: "Queen of Pain"
+        localized_name: "queen of pain"
     },
     {
         name: "venomancer",
         id: 40,
-        localized_name: "Venomancer"
+        localized_name: "venomancer"
     },
     {
         name: "faceless_void",
         id: 41,
-        localized_name: "Faceless Void"
+        localized_name: "faceless void"
     },
     {
         name: "skeleton_king",
         id: 42,
-        localized_name: "Skeleton King"
+        localized_name: "wraith king"
     },
     {
         name: "death_prophet",
         id: 43,
-        localized_name: "Death Prophet"
+        localized_name: "death prophet"
     },
     {
         name: "phantom_assassin",
         id: 44,
-        localized_name: "Phantom Assassin"
+        localized_name: "phantom assassin"
     },
     {
         name: "pugna",
         id: 45,
-        localized_name: "Pugna"
+        localized_name: "pugna"
     },
     {
         name: "templar_assassin",
         id: 46,
-        localized_name: "Templar Assassin"
+        localized_name: "templar assassin"
     },
     {
         name: "viper",
         id: 47,
-        localized_name: "Viper"
+        localized_name: "viper"
     },
     {
         name: "luna",
         id: 48,
-        localized_name: "Luna"
+        localized_name: "luna"
     },
     {
         name: "dragon_knight",
         id: 49,
-        localized_name: "Dragon Knight"
+        localized_name: "dragon knight"
     },
     {
         name: "dazzle",
         id: 50,
-        localized_name: "Dazzle"
+        localized_name: "dazzle"
     },
     {
         name: "rattletrap",
         id: 51,
-        localized_name: "Clockwerk"
+        localized_name: "clockwerk"
     },
     {
         name: "leshrac",
         id: 52,
-        localized_name: "Leshrac"
+        localized_name: "leshrac"
     },
     {
         name: "furion",
         id: 53,
-        localized_name: "Nature's Prophet"
+        localized_name: "nature's prophet"
     },
     {
         name: "life_stealer",
         id: 54,
-        localized_name: "Lifestealer"
+        localized_name: "lifestealer"
     },
     {
         name: "dark_seer",
         id: 55,
-        localized_name: "Dark Seer"
+        localized_name: "dark seer"
     },
     {
         name: "clinkz",
         id: 56,
-        localized_name: "Clinkz"
+        localized_name: "clinkz"
     },
     {
         name: "omniknight",
         id: 57,
-        localized_name: "Omniknight"
+        localized_name: "omniknight"
     },
     {
         name: "enchantress",
         id: 58,
-        localized_name: "Enchantress"
+        localized_name: "enchantress"
     },
     {
         name: "huskar",
         id: 59,
-        localized_name: "Huskar"
+        localized_name: "huskar"
     },
     {
         name: "night_stalker",
         id: 60,
-        localized_name: "Night Stalker"
+        localized_name: "night stalker"
     },
     {
         name: "broodmother",
         id: 61,
-        localized_name: "Broodmother"
+        localized_name: "broodmother"
     },
     {
         name: "bounty_hunter",
         id: 62,
-        localized_name: "Bounty Hunter"
+        localized_name: "bounty hunter"
     },
     {
         name: "weaver",
         id: 63,
-        localized_name: "Weaver"
+        localized_name: "weaver"
     },
     {
         name: "jakiro",
         id: 64,
-        localized_name: "Jakiro"
+        localized_name: "jakiro"
     },
     {
         name: "batrider",
         id: 65,
-        localized_name: "Batrider"
+        localized_name: "batrider"
     },
     {
         name: "chen",
         id: 66,
-        localized_name: "Chen"
+        localized_name: "chen"
     },
     {
         name: "spectre",
         id: 67,
-        localized_name: "Spectre"
+        localized_name: "spectre"
     },
     {
         name: "doom_bringer",
         id: 69,
-        localized_name: "Doom"
+        localized_name: "doom"
     },
     {
         name: "ancient_apparition",
         id: 68,
-        localized_name: "Ancient Apparition"
+        localized_name: "ancient apparition"
     },
     {
         name: "ursa",
         id: 70,
-        localized_name: "Ursa"
+        localized_name: "ursa"
     },
     {
         name: "spirit_breaker",
         id: 71,
-        localized_name: "Spirit Breaker"
+        localized_name: "spirit breaker"
     },
     {
         name: "gyrocopter",
         id: 72,
-        localized_name: "Gyrocopter"
+        localized_name: "gyrocopter"
     },
     {
         name: "alchemist",
         id: 73,
-        localized_name: "Alchemist"
+        localized_name: "alchemist"
     },
     {
         name: "invoker",
         id: 74,
-        localized_name: "Invoker"
+        localized_name: "invoker"
     },
     {
         name: "silencer",
         id: 75,
-        localized_name: "Silencer"
+        localized_name: "silencer"
     },
     {
         name: "obsidian_destroyer",
         id: 76,
-        localized_name: "Outworld Devourer"
+        localized_name: "outworld devourer"
     },
     {
         name: "lycan",
         id: 77,
-        localized_name: "Lycanthrope"
+        localized_name: "lycan"
     },
     {
         name: "brewmaster",
         id: 78,
-        localized_name: "Brewmaster"
+        localized_name: "brewmaster"
     },
     {
         name: "shadow_demon",
         id: 79,
-        localized_name: "Shadow Demon"
+        localized_name: "shadow demon"
     },
     {
         name: "lone_druid",
         id: 80,
-        localized_name: "Lone Druid"
+        localized_name: "lone druid"
     },
     {
         name: "chaos_knight",
         id: 81,
-        localized_name: "Chaos Knight"
+        localized_name: "chaos knight"
     },
     {
         name: "meepo",
         id: 82,
-        localized_name: "Meepo"
+        localized_name: "meepo"
     },
     {
         name: "treant",
         id: 83,
-        localized_name: "Treant Protector"
+        localized_name: "treant protector"
     },
     {
         name: "ogre_magi",
         id: 84,
-        localized_name: "Ogre Magi"
+        localized_name: "ogre magi"
     },
     {
         name: "undying",
         id: 85,
-        localized_name: "Undying"
+        localized_name: "undying"
     },
     {
         name: "rubick",
         id: 86,
-        localized_name: "Rubick"
+        localized_name: "rubick"
     },
     {
         name: "disruptor",
         id: 87,
-        localized_name: "Disruptor"
+        localized_name: "disruptor"
     },
     {
         name: "nyx_assassin",
         id: 88,
-        localized_name: "Nyx Assassin"
+        localized_name: "nyx assassin"
     },
     {
         name: "naga_siren",
         id: 89,
-        localized_name: "Naga Siren"
+        localized_name: "naga siren"
     },
     {
         name: "keeper_of_the_light",
         id: 90,
-        localized_name: "Keeper of the Light"
+        localized_name: "keeper of the light"
     },
     {
         name: "wisp",
         id: 91,
-        localized_name: "Wisp"
+        localized_name: "wisp"
     },
     {
         name: "visage",
         id: 92,
-        localized_name: "Visage"
+        localized_name: "visage"
     },
     {
         name: "slark",
         id: 93,
-        localized_name: "Slark"
+        localized_name: "slark"
     },
     {
         name: "medusa",
         id: 94,
-        localized_name: "Medusa"
+        localized_name: "medusa"
     },
     {
         name: "troll_warlord",
         id: 95,
-        localized_name: "Troll Warlord"
+        localized_name: "troll warlord"
     },
     {
         name: "centaur",
         id: 96,
-        localized_name: "Centaur Warrunner"
+        localized_name: "centaur warrunner"
     },
     {
         name: "magnataur",
         id: 97,
-        localized_name: "Magnus"
+        localized_name: "magnus"
     },
     {
         name: "shredder",
         id: 98,
-        localized_name: "Timbersaw"
+        localized_name: "timbersaw"
     },
     {
         name: "bristleback",
         id: 99,
-        localized_name: "Bristleback"
+        localized_name: "bristleback"
     },
     {
         name: "tusk",
         id: 100,
-        localized_name: "Tusk"
+        localized_name: "tusk"
     },
     {
         name: "skywrath_mage",
         id: 101,
-        localized_name: "Skywrath Mage"
+        localized_name: "skywrath mage"
     },
     {
         name: "abaddon",
         id: 102,
-        localized_name: "Abaddon"
+        localized_name: "abaddon"
     },
     {
         name: "elder_titan",
         id: 103,
-        localized_name: "Elder Titan"
+        localized_name: "elder titan"
     },
     {
         name: "legion_commander",
         id: 104,
-        localized_name: "Legion Commander"
+        localized_name: "legion commander"
     },
     {
         name: "ember_spirit",
         id: 106,
-        localized_name: "Ember Spirit"
+        localized_name: "ember spirit"
     },
     {
         name: "earth_spirit",
         id: 107,
-        localized_name: "Earth Spirit"
+        localized_name: "earth spirit"
     },
     {
         name: "abyssal_underlord",
         id: 108,
-        localized_name: "Abyssal Underlord"
+        localized_name: "underlord"
     },
     {
         name: "terrorblade",
         id: 109,
-        localized_name: "Terrorblade"
+        localized_name: "terrorblade"
     },
     {
         name: "phoenix",
         id: 110,
-        localized_name: "Phoenix"
+        localized_name: "phoenix"
     },
     {
         name: "techies",
         id: 105,
-        localized_name: "Techies"
+        localized_name: "techies"
     },
     {
         name: "oracle",
         id: 111,
-        localized_name: "Oracle"
+        localized_name: "oracle"
     },
     {
         name: "winter_wyvern",
         id: 112,
-        localized_name: "Winter Wyvern"
+        localized_name: "winter wyvern"
     },
     {
         name: "arc_warden",
         id: 113,
-        localized_name: "Arc Warden"
+        localized_name: "arc warden"
     }
 ]
 
 $("#searchBtn").click(function(){
-    let heroSearch = document.querySelector('#searchBar').value;
+    let heroSearch = document.querySelector('#searchBar').value.toLowerCase();
     console.log(heroSearch);
 
    let heroSearchToObj = heroes.filter(obj =>
         {return obj.localized_name === heroSearch});
-   console.log(heroSearchToObj); 
+    console.log(heroSearchToObj); 
 
-let heroId = heroSearchToObj[0].id;
+    let heroId = heroSearchToObj[0].id;
 
-console.log(heroId)
-
-
+    console.log(heroId)
 
     let url = 'https://api.opendota.com/api/heroes/' + heroId + '/itemPopularity';
 
