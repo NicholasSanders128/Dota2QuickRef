@@ -604,17 +604,17 @@ $("#searchBtn").click(function(){
     let heroSearch = document.querySelector('#searchBar').value;
     console.log(heroSearch);
 
-   let heroSearchToObj = heroes.filter(obj => 
-        {return obj.localized_name === heroSearch})
+   let heroSearchToObj = heroes.filter(obj =>
+        {return obj.localized_name === heroSearch});
    console.log(heroSearchToObj); 
 
-   heroSearchToObj.id;
+let heroId = heroSearchToObj[0].id;
+
+console.log(heroId)
 
 
 
-
-
-    let url = 'https://api.opendota.com/api/heroes/' + heroSearchToObj.id + '/itemPopularity';
+    let url = 'https://api.opendota.com/api/heroes/' + heroId + '/itemPopularity';
 
     fetch(url)
     .then(response => response.text())
